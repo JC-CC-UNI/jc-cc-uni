@@ -1,9 +1,8 @@
-## Hi there 👋
+# Hi there, I am Jorge 👋
 
-My name is Jorge, I'm from Perú and I'm an Data Architect.
+My nickname is JC, I'm from Perú and I'm a data addict with a solid background in computer science.
 
-* Currently working for [@bitsoex](https://github.com/bitsoex) as a Principal SRE
-* I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes.
+* Currently working for Qualifacts as a Data Architect
 
 ## Skills
 
