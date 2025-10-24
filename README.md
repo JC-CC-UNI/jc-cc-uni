@@ -15,7 +15,7 @@ My nickname is JC, I'm from Perú and I'm a data addict with a solid background 
 
 ## Contact
 
-If you want to talk to me or want to discuess something then feel free to ping on [LinkedIn](https://www.linkedin.com/in/jorge-carhuarica/).
+If you want to talk to me or want to discuss something, then feel free to ping on [LinkedIn](https://www.linkedin.com/in/jorge-carhuarica/).
 
 <!--
 Find all of my socials and resume in my [website](https://fredrikson.com.ar)
